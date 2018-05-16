@@ -1,0 +1,5 @@
+serverA 30
+
+serverB 3
+
+serverC 15
